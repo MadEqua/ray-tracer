@@ -9,9 +9,9 @@ Whitted-style Ray-Tracer with some extra features.
 - Ability to use standard normal maps.
 
 # Example Renders
-![](http://bmlourenco.com/uploads/3/8/6/2/3862236/__3729474_orig.jpg)
-![](http://bmlourenco.com/uploads/3/8/6/2/3862236/__3784515_orig.jpg)
-![](http://bmlourenco.com/uploads/3/8/6/2/3862236/__5733528_orig.jpg)
+![](http://bmlourenco.com/public/images/ray-tracer/1.jpg)
+![](http://bmlourenco.com/public/images/ray-tracer/2.jpg)
+![](http://bmlourenco.com/public/images/ray-tracer/4.jpg)
 
 # License
 Licensed under the MIT license, see [LICENSE](https://github.com/MadEqua/ray-tracer/blob/master/LICENSE) for details.
